@@ -1,0 +1,2 @@
+# CprojectAMOA
+With the increase in acts of computer hacking, it is necessary to choose a good password, but this is not an easy task for the user who in general does not have a clear idea of the strength of a password. It is therefore imperative to use a password generator that can provide us with a strong password. For all these reasons, I have chosen to program a password generator in C language.
