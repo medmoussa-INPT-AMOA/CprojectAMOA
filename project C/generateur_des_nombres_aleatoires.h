@@ -1,0 +1,8 @@
+#ifndef GENERETEUR_DES_NOMBRES_ALEATOIRES_H_INCLUDED
+#define GENERETEUR_DES_NOMBRES_ALEATOIRES_H_INCLUDED
+
+extern char type_de_mot_de_passe;
+
+int generateur_des_nombres_aleatoires();
+
+#endif // GENERETEUR_DES_NOMBRES_ALEATOIRES_H_INCLUDED
